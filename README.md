@@ -37,3 +37,6 @@ To get it:
 I'll send you the code and guide instantly. Let's build the future of AI together!
 
 #AI #ComputerVision #OpenCV #MachineLearning #Automation #SmartCities #RetailTech #Industry40 #Innovation #FutureTech #PythonProgramming #DeepLearning #DataScience #DataAnalytics #TechTrends
+
+<img width="1020" height="520" alt="image" src="https://github.com/user-attachments/assets/83a168e1-a014-4301-85a4-03543b7727fb" />
+
