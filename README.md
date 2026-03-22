@@ -1,4 +1,5 @@
 🤯 Count Objects in LIVE Video with Just a Few Lines of Code! Real-Time AI is Here. 🚗
+<img width="928" height="1152" alt="generated-image" src="https://github.com/user-attachments/assets/4b1497da-787f-40ad-934f-d03e10a2ce54" />
 
 Stop manual counting. What if your camera could automatically count people, vehicles, or products in real-time?
 
